@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\bin\Debug\ChatHostVBExample.dll
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\bin\Debug\ChatHostVBExample.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\bin\Debug\ChatHostVBExample.xml
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\obj\Debug\ChatHostVBExample.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\obj\Debug\ChatHostVBExample.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\obj\Debug\ChatHostVBExample.dll
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\obj\Debug\ChatHostVBExample.xml
+c:\users\admin\documents\visual studio 2012\Projects\ChatHostHandler\ChatHostVBExample\obj\Debug\ChatHostVBExample.pdb
